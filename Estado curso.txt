@@ -1,2 +1,2 @@
-02 Fundamentos de PHP
-	009 Condicional if
+06 MySQL
+	006 Como Seleccionar Informaci n de una Tabla y Filtrarla

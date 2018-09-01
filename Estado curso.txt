@@ -1,2 +1,1 @@
-06 MySQL
-	006 Como Seleccionar Informaci n de una Tabla y Filtrarla
+07 Trabajando con PHP y Bases de Datos
